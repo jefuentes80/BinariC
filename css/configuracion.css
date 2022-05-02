@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+/* PALETA DE COLORES */
+:root {
+    --color-1: red;
+    --color-2: red;
+    --color-3: red;
+    --color-4: red;
+    --color-5: red;
+}
